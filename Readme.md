@@ -19,4 +19,4 @@
 
 ## Live Link
 
-[Netlify]()
+[Netlify](https://seo-provider.netlify.app/)
